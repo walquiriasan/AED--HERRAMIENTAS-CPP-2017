@@ -1,8 +1,11 @@
 # HERRAMIENTAS-GCC-2017
 
+&nbsp;
+
 # Lo necesario para compilar C++ 2017 en Sublime Text
 
-
+&nbsp;
+&nbsp;
 
 ## INSTALACIÓN DEL COMPILADOR (PASO A)
 
@@ -14,7 +17,8 @@ Installation -> Apply Changes -> Apply
 * Edición de la variable de entorno PATH del sistema añadiendo en ella 
 la ruta de la carpeta dónde se instaló el paquete en el paso 1
 
-
+&nbsp;
+&nbsp;
 
 ## CÓDIGO JSON (PASO B)
 
@@ -22,25 +26,30 @@ la ruta de la carpeta dónde se instaló el paquete en el paso 1
 Tools -> Build System -> New Build System 
 
 * Pegar el siguiente código:
+
 ~~~
 {
-"cmd": ["g++", "-std=c++17", "-Wall", "-unicode","-pedantic-errors", "$file_name", "-o", "${file_base_name}.exe",
+"cmd": ["g++", "-std=c++17", "-Wall", "-unicode","-pedantic-errors", 
+"$file_name", "-o", "${file_base_name}.exe",
 "&&", "start", "cmd", "/k" , "$file_base_name"], 	
 "selector": "source.cpp",
 "working_dir": "${file_path}", "shell": true
 }
 ~~~
+
 * Guardar con nombre elegido seguido de la extensión:
 .sublime-build
 
-
+&nbsp;
+&nbsp;
 
 ## SELECCIONAR EL TIPO DE COMPILADOR A USAR (PASO C)
  
 * En Sublime Text:
 Tools -> Build System->seleccionar el nombre que le coloco al archivo guardado en el PASO B.
 
-
+&nbsp;
+&nbsp;
 
 ## USAR EL COMPILADOR (PASO D)
 
