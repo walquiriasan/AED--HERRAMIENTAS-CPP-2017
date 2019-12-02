@@ -11,7 +11,7 @@
 
 * Instalar el paquete "mingw32-gcc-g++", con el instalador mingw-get-setup
 (prestar especial atención a la ubicación de esta instalación).
-Al final este paso se realizará de este modo:
+Al final, este paso se realizará de este modo:
 Installation -> Apply Changes -> Apply
 
 * Edición de la variable de entorno PATH del sistema añadiendo en ella 
