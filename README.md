@@ -59,7 +59,7 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 &nbsp;
 &nbsp;
 
-# Paginas web de consulta
+# Páginas web de consulta
 
 &nbsp;
 
