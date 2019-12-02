@@ -60,7 +60,19 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 &nbsp;
 
 # Paginas web de consulta
-*<http://www.mingw.org/>
-*<https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>
-*<http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>
-*<http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>
+
+&nbsp;
+
+<http://www.mingw.org/>
+
+&nbsp;
+
+<https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>
+
+&nbsp;
+
+<http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>
+
+&nbsp;
+
+<http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>
