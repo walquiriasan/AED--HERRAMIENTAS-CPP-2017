@@ -10,7 +10,7 @@
 ## INSTALACIÓN DEL COMPILADOR (PASO A)
 
 * Instalar el paquete "mingw32-gcc-g++", con el instalador mingw-get-setup
-(prestar especial atención a la ubicación de esta instalación)
+(prestar especial atención a la ubicación de esta instalación).
 Al final este paso se realizará de este modo:
 Installation -> Apply Changes -> Apply
 
