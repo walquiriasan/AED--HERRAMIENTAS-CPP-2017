@@ -76,3 +76,11 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 &nbsp;
 
 <http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>
+
+&nbsp;
+
+<https://markdown.es/sintaxis-markdown/>
+
+&nbsp;
+
+<https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto#topic_xqx_mvc_43__row_vwt_yln_1n>
