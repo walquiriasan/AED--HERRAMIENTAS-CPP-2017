@@ -61,7 +61,7 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 &nbsp;
 &nbsp;
 
-# Páginas web de consulta
+![# Páginas web de consulta](http://placehold.it/500x60/41758a/FFFFFF.png&text=Páginas+web+de+consulta) 
 
 &nbsp;
 
