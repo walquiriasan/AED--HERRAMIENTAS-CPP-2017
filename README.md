@@ -17,7 +17,7 @@ Installation -> Apply Changes -> Apply
 * Edición de la variable de entorno PATH del sistema añadiendo en ella 
 la ruta de la carpeta dónde se instaló el paquete en el paso 1.
 Ejemplo de lo que se agrega en el PATH (esto varía de acuerdo a la ubicación de la instalación):
-C:\MinGW\bin;
+C:\MinGW\bin
 
 &nbsp;
 &nbsp;
