@@ -29,7 +29,7 @@ Tools -> Build System -> New Build System
 
 * Pegar el siguiente código:
 
-~~~
+```html
 {
 "cmd": ["g++", "-std=c++17", "-Wall", "-unicode","-pedantic-errors", 
 "$file_name", "-o", "${file_base_name}.exe",
@@ -37,7 +37,7 @@ Tools -> Build System -> New Build System
 "selector": "source.cpp",
 "working_dir": "${file_path}", "shell": true
 }
-~~~
+```
 
 * Guardar con nombre elegido seguido de la extensión:
 .sublime-build
