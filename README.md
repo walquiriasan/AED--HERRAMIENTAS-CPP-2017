@@ -65,24 +65,9 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 
 &nbsp;
 
-<http://www.mingw.org/>
-
-&nbsp;
-
-<https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>
-
-&nbsp;
-
-<http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>
-
-&nbsp;
-
-<http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>
-
-&nbsp;
-
-<https://markdown.es/sintaxis-markdown/>
-
-&nbsp;
-
-<https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto#topic_xqx_mvc_43__row_vwt_yln_1n>
++ <http://www.mingw.org/>  
++ <https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>  
++ <http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>  
++ <http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>  
++ <https://markdown.es/sintaxis-markdown/>  
++ <https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto#topic_xqx_mvc_43__row_vwt_yln_1n>
