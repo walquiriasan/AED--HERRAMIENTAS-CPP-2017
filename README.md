@@ -29,7 +29,7 @@ Tools -> Build System -> New Build System
 
 * Pegar el siguiente código:
 
-```
+```console
 {
 "cmd": ["g++", "-std=c++17", "-Wall", "-unicode","-pedantic-errors", 
 "$file_name", "-o", "${file_base_name}.exe",
