@@ -62,9 +62,6 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 &nbsp;
 
 # Páginas web de consulta 
-
-&nbsp;
-
 + <http://www.mingw.org/>  
 + <https://platzi.com/tutoriales/1469-algoritmos/1901-como-instalar-gcc-para-compilar-programas-en-c-desde-la-consola-en-windows/>  
 + <http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>  
