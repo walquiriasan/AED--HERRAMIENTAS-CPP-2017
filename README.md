@@ -39,7 +39,7 @@ Tools -> Build System -> New Build System
 }
 ```
 
-* Guardar con nombre elegido seguido de la extensión:
+* Guardar con nombre elegido, seguido de la extensión:
 .sublime-build
 
 &nbsp;
