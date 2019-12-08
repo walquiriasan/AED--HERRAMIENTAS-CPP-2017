@@ -67,4 +67,5 @@ Tools -> Build , o usar el atajo por teclas CTRL+B
 + <http://ayudasprogramacionweb.blogspot.com/2012/12/compilar-y-ejecutar-cpp-desde-sublime-text.html>  
 + <http://tucursovirtualya.blogspot.com/2017/03/como-compilar-codigo-c-c-en-sublime.html>  
 + <https://markdown.es/sintaxis-markdown/>  
-+ <https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto#topic_xqx_mvc_43__row_vwt_yln_1n>
++ <https://support.zendesk.com/hc/es/articles/203691016-Uso-de-Markdown-para-el-formato-de-texto#topic_xqx_mvc_43__row_vwt_yln_1n>  
++ <https://gist.github.com/rxaviers/7360908>
